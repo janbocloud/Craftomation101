@@ -71,4 +71,4 @@ A. コードは MIT なのでクレジット表記の上でご自由にどうぞ
 ## 📬 連絡先
 
 * Issues: GitHub の Issue へどうぞ
-* X : `janbocloud` 
+* X(Twitter) : [janbocloud](https://x.com/janbocloud)
